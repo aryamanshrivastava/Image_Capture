@@ -1,16 +1,28 @@
-# image_capture
+# Image Picker App🖼️
 
-A new Flutter project.
+This Flutter project is an easy-to-use application that allows users to either choose an image from their gallery or capture a new image using their device's camera. It's built with Flutter and utilizes the `image_picker` package for accessing images.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Choose an Image**: Users can select an image from their device's gallery.
+- **Capture an Image**: Users can take a new picture using the device's camera.
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+   
+   ```sh
+   git clone https://github.com/aryamanshrivastava/Image_Capture.git
+   
+2. Navigate to the project directory:
+   
+   ```sh
+    cd Image_Capture
+   
+3. Install dependencies:
+   ```sh
+   flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Run the application:
+   ```sh
+    flutter run
