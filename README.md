@@ -1,4 +1,4 @@
-# Image Picker App🖼️
+# Image Capture🖼️
 
 This Flutter project is an easy-to-use application that allows users to either choose an image from their gallery or capture a new image using their device's camera. It's built with Flutter and utilizes the `image_picker` package for accessing images.
 
